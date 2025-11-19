@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\st_pokemonsleep_dexbagsystem\\userpageuc\\ucuserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\userpageuc\\ucuserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|d:\\pokemonsleep\\st_pokemonsleep_dexbagsystem\\st_pokemonsleep_dexbagsystem\\userpageuc\\ucuserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\userpageuc\\ucuserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|d:\\pokemonsleep\\st_pokemonsleep_dexbagsystem\\st_pokemonsleep_dexbagsystem\\bagpageuc\\ucbagpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\bagpageuc\\ucbagpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|d:\\pokemonsleep\\st_pokemonsleep_dexbagsystem\\st_pokemonsleep_dexbagsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcUserPage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs",
+              "ToolTip": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:59:25.843Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\Form1.cs",
+              "ToolTip": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\Form1.cs",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\Form1.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T01:29:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcUserPage.cs",
+              "DocumentMoniker": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs",
+              "ToolTip": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\UserPageUC\\UcUserPage.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAAACEBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:59:28.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UcBagPage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\BagPageUC\\UcBagPage.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\BagPageUC\\UcBagPage.cs",
+              "ToolTip": "D:\\PokemonSleep\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\BagPageUC\\UcBagPage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\BagPageUC\\UcBagPage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T00:59:54.417Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

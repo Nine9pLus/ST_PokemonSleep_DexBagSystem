@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|d:\\pokemonsleep\\pokemonsleep_framwork\\pokemonsleep_framwork\\pokemonsleep_framwork\\st_pokemonsleep_dexbagsystem\\st_pokemonsleep_dexbagsystem\\mainpageuc\\ucmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\mainpageuc\\ucmainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|d:\\pokemonsleep\\pokemonsleep_framwork\\pokemonsleep_framwork\\pokemonsleep_framwork\\st_pokemonsleep_dexbagsystem\\st_pokemonsleep_dexbagsystem\\mainpageuc\\ucloginsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\mainpageuc\\ucloginsection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\st_pokemonsleep_dexbagsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|d:\\pokemonsleep\\pokemonsleep_framwork\\pokemonsleep_framwork\\pokemonsleep_framwork\\st_pokemonsleep_dexbagsystem\\st_pokemonsleep_dexbagsystem\\publicuc\\ucpagenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{247DB4FD-0ABB-4152-BB20-1B4162970880}|ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem.csproj|solutionrelative:st_pokemonsleep_dexbagsystem\\publicuc\\ucpagenavigator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UcLoginSection.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcLoginSection.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcLoginSection.cs",
+              "ToolTip": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcLoginSection.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcLoginSection.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:47:37.392Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UcMainPage.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcMainPage.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcMainPage.cs",
+              "ToolTip": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcMainPage.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\MainPageUC\\UcMainPage.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T15:34:21.805Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UcPageNavigator.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\PublicUC\\UcPageNavigator.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\PublicUC\\UcPageNavigator.cs",
+              "ToolTip": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\PublicUC\\UcPageNavigator.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\PublicUC\\UcPageNavigator.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T14:37:42.385Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "ST_PokemonSleep_DexBagSystem\\Form1.cs",
+              "ToolTip": "D:\\PokemonSleep\\PokemonSleep_framwork\\PokemonSleep_framwork\\PokemonSleep_framwork\\ST_PokemonSleep_DexBagSystem\\ST_PokemonSleep_DexBagSystem\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "ST_PokemonSleep_DexBagSystem\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:43:20.146Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
